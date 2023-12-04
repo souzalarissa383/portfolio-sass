@@ -1,8 +1,17 @@
-# React + Vite
+# Portfólio desenvolvivdo com ReactJs e Sass 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Desenvolvi esse projeto com o intuito de aumentar o meu portfólio de projetos, pude colocar em prática novos conhecimentos obtidos através dos estudos.
 
-Currently, two official plugins are available:
+## Como rodar:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1 - Clone o diretório.
+`https://github.com/souzalarissa383/portfolio-sass.git`
+
+### 2 - Inicialize o Visual Studio Code.
+
+### 3 - Abra o projeto no terminal (Crtl+') e digite:
+
+`npm run dev`
+
+Abra o link http://localhost:3000 em seu navegador para acesar a pagina do projeto.
+
